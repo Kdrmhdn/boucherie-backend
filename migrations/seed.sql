@@ -1,0 +1,2 @@
+-- Seed data file (empty — clean install)
+-- Add your own seed data here if needed.
